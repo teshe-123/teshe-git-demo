@@ -1,2 +1,3 @@
 coding would be nicer using git
 changing some shit i guess
+the second commit is going on
